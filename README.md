@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Captain Kills
 
-## Setup
+A mod to track a players raid captain kills. Also adds an NBT tag to them. 
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+*I think I generated this template wrong/pushed wrong or something. Doesn't really matter, this was a one-night project. It works fine*
